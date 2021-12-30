@@ -1,2 +1,2 @@
 # TFEncoder
-SPN ve SHA-256 ile şifrelenmiş dosyalar
+TFEncoder, metinler ve dosyalar üzerinde SHA256 ve SPN karma ve şifreleme algoritmalarını kullanan görsel ve çift yönlü bir metin ve dosya şifreleme uygulamasıdır.
